@@ -1,0 +1,24 @@
+{
+    "id": "1574EB20",
+    "path": "~/WMDE/WD_Analytics_FrontEnd/Qurator_CurrentEvents/docker-compose.yaml",
+    "project_path": "docker-compose.yaml",
+    "type": "yaml",
+    "hash": "1362697688",
+    "contents": "",
+    "dirty": false,
+    "created": 1612120057033.0,
+    "source_on_save": false,
+    "relative_order": 5,
+    "properties": {
+        "cursorPosition": "7,31",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1612120083,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1612120083045,
+    "read_only": false,
+    "read_only_alternatives": []
+}

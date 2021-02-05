@@ -1,0 +1,24 @@
+{
+    "id": "A463E329",
+    "path": "~/WMDE/WD_Analytics_FrontEnd/Qurator_CurrentEvents/dev/03_deploy.R",
+    "project_path": "dev/03_deploy.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1612119218697.0,
+    "source_on_save": false,
+    "relative_order": 3,
+    "properties": {
+        "cursorPosition": "0,0",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1612119352,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1612119352097,
+    "read_only": false,
+    "read_only_alternatives": []
+}

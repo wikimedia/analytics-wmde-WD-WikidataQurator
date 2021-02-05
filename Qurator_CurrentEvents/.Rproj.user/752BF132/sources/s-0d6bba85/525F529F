@@ -1,0 +1,24 @@
+{
+    "id": "525F529F",
+    "path": "~/WMDE/WD_Analytics_FrontEnd/Qurator_CurrentEvents/R/app_server.R",
+    "project_path": "R/app_server.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1612119409610.0,
+    "source_on_save": false,
+    "relative_order": 3,
+    "properties": {
+        "cursorPosition": "28,79",
+        "scrollLine": "3"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1612121506,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1612121506397,
+    "read_only": false,
+    "read_only_alternatives": []
+}

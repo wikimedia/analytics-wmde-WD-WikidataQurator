@@ -1,0 +1,24 @@
+{
+    "id": "8EB1164B",
+    "path": "~/WMDE/WD_Analytics_FrontEnd/Qurator_CurrentEvents/R/app_ui.R",
+    "project_path": "R/app_ui.R",
+    "type": "r_source",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1612119408320.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "cursorPosition": "110,0",
+        "scrollLine": "91"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1612121694,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1612121694907,
+    "read_only": false,
+    "read_only_alternatives": []
+}
